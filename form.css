@@ -1,0 +1,139 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color: #fff;
+	background-position: center;
+	background-size: cover;
+	font-family: sans-serif;
+	margin-top:30px;
+}
+.regform{
+	width:700px;
+	background-color: #F8F8FF;
+	margin:auto;
+	color:#2F4F4F;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	border-radius: 15px 15px 0px 0px;
+	
+}
+.main{
+	width:700px;
+	height: 900px;
+	margin:auto;
+	border-radius: 10px;
+	background-color: #F8F8FF;
+	box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+form{
+	padding: 10px;
+}
+.name{
+	margin-left: 35px;
+	margin-top: 30px;
+	width:125px;
+	color: #2F4F4F;
+	font-size: 18px;
+	font-weight: 700;
+}
+.Content-ID{
+	position: relative;
+	left:200px;
+	top: -32px;
+	width:440px;
+	line-height: 40px;
+	border-radius: 6px;
+	padding-left: 0 22px;
+	font-size:16px;
+	text-align: center;
+}
+.Chapter-Name{
+	position:relative;
+	left:200px;
+	top:-32px;
+	line-height: 40px;
+	width:440px;
+	border-radius: 6px;
+	padding-left: 0 22px;
+	font-size:16px;
+	text-align: center;
+}
+.Content-link{
+	position:relative;
+	left:200px;
+	top:-32px;
+	line-height: 40px;
+	width:440px;
+	border-radius: 6px;
+	padding-left: 0 22px;
+	font-size:16px;
+	text-align: center;
+}
+.Course-ID{
+	position:relative;
+	left:200px;
+	top:-32px;
+	line-height: 40px;
+	width:440px;
+	border-radius: 6px;
+	padding-left: 0 22px;
+	font-size:16px;
+	text-align: center;
+}
+.Class-Name{
+	position:relative;
+	left:200px;
+	top:-32px;
+	line-height: 40px;
+	width:440px;
+	border-radius: 6px;
+	padding-left: 0 22px;
+	font-size:16px;
+	text-align: center;
+}
+.option{
+	position:relative;
+	left:200px;
+	top:-32px;
+	line-height: 40px;
+	width:440px;
+	height:40px;
+	border-radius: 6px;
+	padding-left: 0 22px;
+	font-size:16px;
+	text-align: center;
+	outline:none;
+	overflow: hidden;
+}
+.option option{
+	font-size:15px;
+}
+.Add-content{
+	position:relative;
+	left:200px;
+	top:-32px;
+	line-height: 40px;
+	width:440px;
+	border-radius: 12px;
+	padding-left: 0 22px;
+	font-size:16px;
+	text-align: center;
+}
+button{
+	background-color:#E6E6FA;
+	display: block;
+	margin-top:0px;
+	text-align: center;
+	border-radius: 20px;
+	border: 2px solid #366473;
+	padding:10px 40px;
+	outline: none;
+	color: #2F4F4F;
+	cursor: pointer;
+	transition: 0.25px;
+	margin-left: 260px;	
+	font-size: 20px;
+	font-weight: 700;
+}

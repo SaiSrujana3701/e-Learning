@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding:0;
+	font-family: sans-serif,helvetica,Arial;
+}
+.wrapper{
+	
+	padding: 1%;
+	margin: 0 auto ;
+	width: 80%;
+	
+}
+
+.tbl-full{
+	width: 100%;
+	padding: 2%;
+}
+.tbl-30{
+	width: 30%;
+}
+
+
+table tr th{
+	border-bottom: 1px solid black;
+	padding: 1%;
+	text-align: left;
+
+}
+
+table tr th{
+	
+	padding: 1%;
+	text-align: left;
+
+}
+
+table tr td{ 
+	padding: 1.5%;
+}
+table .tbl-full1 tr td{ 
+	padding: 1.5%;
+}
+.tbl-full{
+	width: 100%;
+	padding: 2%;
+	text-align: left;
+	text-align: left;
+}
+.tbl-full1{
+	width: 100%;
+	padding: 2%;
+	text-align: center;
+	
+}
+.btn-primary{
+	background-color:  #0000ff80;
+	padding: 1%;
+	text-decoration: none;
+	color : white;
+	font-weight: bold;
+
+}
+.btn-primary:hover{
+	 background-color: #00008b;
+}
+.btn-secondary{
+	background-color:  #40ff00;
+	padding: 1%;
+	text-decoration: none;
+	color : white;
+	font-weight: bold;
+
+}
+.btn-secondary:hover{
+	background-color: #208b00;
+}
+.btn-teritory{
+	background-color:  #b34d4d;
+	padding: 1%;
+	text-decoration: none;
+	color : white;
+	font-weight: bold;
+
+}
+.btn-teritory:hover{
+	background-color: #8b0000;
+}
+.text-center{
+	text-align: center;
+}
+.footer{
+	background-color: #800000;
+	color: white;
+}
+.main{
+	margin: 1%;
+	text-align: center;
+}
+.menu ul{
+	list-style-type:none;
+}
+.menu ul li{
+	display : inline;
+	padding: 1%;
+	
+}
+.menu{
+	border: 1px solid black;
+	text-align: center;
+}
+.menu ul li a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #800000;
+}
